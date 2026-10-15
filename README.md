@@ -38,8 +38,31 @@ El proyecto abarca desde el dimensionamiento de capacidad instalada y la cadena 
 ## Estructura del Repositorio
 
 * [Documento Completo del Plan de Negocios (.md)](./tactical-backpack-bizplan.md): Análisis FODA, cadena de valor, amortizaciones y evaluación financiera detallada.
-* [Formulación Económica del Plan de Negocios (.xlsx)](https://frbautneduar-my.sharepoint.com/:x:/g/personal/patgarcia_frba_utn_edu_ar/IQDMudqHdOg4SJ1iLUIPLma3AfouVYYUGUlS6TtYjZNsLA4?e=kvmcWJ): Gráficos de proyección de mercado, lay-out de planta u organigrama de la empresa.
 
+## Formulación Económica & Planilla Financiera
+
+Para consultar el modelo cuantitativo completo en Excel (formulado a 5 años), podés acceder directamente a la hoja de cálculo interactiva:
+
+* 📊 <a href="https://docs.google.com/spreadsheets/d/1c5nkWoEnWYZRzovzOq5xD5IbOdguNbW0/edit?usp=sharing&ouid=101483865703556516957&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer"><b>Abrir Planilla de Formulación Económica (.xlsx) en pestaña nueva</b></a>
+
+---
+
+Al abrir el libro de cálculo, encontrarás las siguientes hojas de trabajo interrelacionadas:
+
+#### 1. Premisas, Estructura de Costos y Mercado
+* **Carátula & Consideraciones:** Datos del proyecto, variables macroeconómicas y tasas de inflación/descuento aplicadas.
+* **Costos Variables de Fabricación:** Desglose unitario de Mano de Obra Directa (MOD) e Insumos/Materias Primas.
+* **Mercado:** Estimas de producción, precios y proyección de ventas anuales.
+* **Gastos Operativos:** Gastos Fijos de Fabricación, Comercialización, Administración y Finanzas.
+
+#### 2. Plan de Amortizaciones y Activo Fijo
+* **Amortizaciones de Bienes de Uso:** Tablas de depreciación para Edificio, Muebles y Útiles, Rodados, Equipamiento Informático y Maquinaria de Producción (Sistema Creciente).
+* **Activo No Corriente & Capital de Trabajo:** Determinación de la inversión inicial en activo fijo y requerimiento de liquidez operativa.
+
+#### 3. Estados Financieros Pro Forma e Indicadores de Evaluación
+* **Flujo de Caja Proyectado:** Estado de flujos de efectivo a 5 años sobre el cual se calculan el **VAN ($736.384,27)**, la **TIR (67,41%)** y el **Período de Repago (3 años y 4 meses)**.
+* **Cuadro de Usos y Fuentes:** Origen y aplicación de los fondos de inversión.
+* **Balances Pro Forma & Puntos de Equilibrio:** Estado de situación patrimonial proyectado y cálculo del umbral de rentabilidad.
 ---
 
 ## Competencias de Análisis de Negocio Aplicadas
