@@ -79,14 +79,14 @@ Somos una marroquinería ubicada en Buenos Aires con un equipo dedicado a la fab
 ## 5. Análisis FODA & Metas
 
 ### FODA
-* **Fortalezas:** Profundo conocimiento del mercado, flexibilidad de adaptación y especialización en un nicho técnico[cite: 10, 11].
-* **Oportunidades:** Mercado en expansión hacia el uso civil/urbano, tendencia a la personalización y demanda de accesorios multifuncionales[cite: 10, 11].
-* **Debilidades:** Capacidad productiva inicial limitada frente a grandes competidores y marca de reciente inserción[cite: 10, 11].
-* **Amenazas:** Competencia consolidada con economías de escala y volatilidad en los costos de las materias primas/telas[cite: 10, 11].
+* **Fortalezas:** Profundo conocimiento del mercado, flexibilidad de adaptación y especialización en un nicho técnico.
+* **Oportunidades:** Mercado en expansión hacia el uso civil/urbano, tendencia a la personalización y demanda de accesorios multifuncionales.
+* **Debilidades:** Capacidad productiva inicial limitada frente a grandes competidores y marca de reciente inserción.
+* **Amenazas:** Competencia consolidada con economías de escala y volatilidad en los costos de las materias primas/telas.
 
 ### Metas a 5 Años
-1. Incrementar el nivel de producción un 25% cada 3 meses[cite: 10, 11].
-2. Vender 50 unidades en los primeros 3 meses[cite: 10, 11].
+1. Incrementar el nivel de producción un 25% cada 3 meses.
+2. Vender 50 unidades en los primeros 3 meses.
 3. Lograr 10 clientes fijos mayoristas al primer año.
 4. Incorporar 2 máquinas de coser adicionales ante el aumento de demanda.
 5. Incrementar el reconocimiento de marca un 30% en el mercado objetivo.
