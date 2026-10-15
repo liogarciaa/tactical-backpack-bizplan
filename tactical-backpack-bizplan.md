@@ -142,13 +142,12 @@ $$\text{Costo Variable Unitario} = \$23.111,11 + \$55.411,11 = \mathbf{\$78.422,
 ### Indicadores de Productividad
 - **Productividad Física (Mano de Obra):**
   $$\text{Productividad Física} = \frac{1 \text{ unidad}}{2 \text{ hs}} = \mathbf{0,5 \text{ unidades / hora-hombre}}$$
-  *(O a nivel planta con los 6 operarios: $\frac{3 \text{ unidades}}{1 \text{ hora de trabajo de la fábrica}}$)*
 
 - **Productividad Monetaria (Mano de Obra):**
-  $$\text{Productividad Monetaria MOD} = \frac{\text{Precio de Venta}}{\text{Costo MOD Unitario}} = \frac{\$80.000}{\$23.111,11} = \mathbf{3,46 \text{ \$/\$}}$$
+  $$\text{Productividad Monetaria MOD} = \frac{\text{Precio de Venta}}{\text{Costo MOD Unitario}} = \frac{80.000}{23.111,11} = \mathbf{3,46 \text{ \$/\$}}$$
 
 - **Productividad de Materia Prima:**
-  $$\text{Productividad MP} = \frac{\text{Precio de Venta}}{\text{Costo Materia Prima Unitario}} = \frac{\$80.000}{\$55.411,11} = \mathbf{1,44 \text{ \$/\$}}$$
+  $$\text{Productividad MP} = \frac{\text{Precio de Venta}}{\text{Costo Materia Prima Unitario}} = \frac{80.000}{55.411,11} = \mathbf{1,44 \text{ \$/\$}}$$
 
 ---
 
