@@ -38,7 +38,7 @@ El proyecto abarca desde el dimensionamiento de capacidad instalada y la cadena 
 ## Estructura del Repositorio
 
 * [Documento Completo del Plan de Negocios (.md)](./tactical-backpack-bizplan.md): Análisis FODA, cadena de valor, amortizaciones y evaluación financiera detallada.
-* `img/`: Gráficos de proyección de mercado, lay-out de planta u organigrama de la empresa.
+* [Formulación Económica del Plan de Negocios (.xlsx)](./Formulación-Económica-del-Plan-de-Negocios.xlsx): Gráficos de proyección de mercado, lay-out de planta u organigrama de la empresa.
 
 ---
 
