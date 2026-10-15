@@ -140,14 +140,19 @@ $$\text{Costo Variable Unitario} = \text{Costo MOD} + \text{Costo Materia Prima}
 $$\text{Costo Variable Unitario} = \$23.111,11 + \$55.411,11 = \mathbf{\$78.422,22 \text{ ARS/unidad}}$$
 
 ### Indicadores de Productividad
-- **Productividad Física (Mano de Obra):**
-  $$\text{Productividad Física} = \frac{1 \text{ unidad}}{2 \text{ hs}} = \mathbf{0,5 \text{ unidades / hora-hombre}}$$
 
-- **Productividad Monetaria (Mano de Obra):**
-  $$\text{Productividad Monetaria MOD} = \frac{\text{Precio de Venta}}{\text{Costo MOD Unitario}} = \frac{80.000}{23.111,11} = \mathbf{3,46 \text{ \$/\$}}$$
+#### 1. Productividad Física (Mano de Obra)
 
-- **Productividad de Materia Prima:**
-  $$\text{Productividad MP} = \frac{\text{Precio de Venta}}{\text{Costo Materia Prima Unitario}} = \frac{80.000}{55.411,11} = \mathbf{1,44 \text{ \$/\$}}$$
+$$\text{Productividad Física} = \frac{1 \text{ unidad}}{2 \text{ hs}} = \mathbf{0,5 \text{ unidades / hora-hombre}}$$
+
+#### 2. Productividad Monetaria (Mano de Obra)
+
+$$\text{Productividad Monetaria MOD} = \frac{\text{Precio de Venta}}{\text{Costo MOD Unitario}} = \frac{80000}{23111.11} = \mathbf{3,46 \text{ \$/\$}}$$
+
+#### 3. Productividad de Materia Prima
+
+$$\text{Productividad MP} = \frac{\text{Precio de Venta}}{\text{Costo Materia Prima Unitario}} = \frac{80000}{55411.11} = \mathbf{1,44 \text{ \$/\$}}$$
+
 ---
 
 ## 9. Evaluación Financiera del Proyecto
