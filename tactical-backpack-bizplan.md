@@ -148,7 +148,6 @@ $$\text{Costo Variable Unitario} = \$23.111,11 + \$55.411,11 = \mathbf{\$78.422,
 
 - **Productividad de Materia Prima:**
   $$\text{Productividad MP} = \frac{\text{Precio de Venta}}{\text{Costo Materia Prima Unitario}} = \frac{80.000}{55.411,11} = \mathbf{1,44 \text{ \$/\$}}$$
-
 ---
 
 ## 9. Evaluación Financiera del Proyecto
