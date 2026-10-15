@@ -1,4 +1,4 @@
-# 🎒 Plan de Negocios — Mochilas Tácticas (S.R.L.)
+# Plan de Negocios — Mochilas Tácticas (S.R.L.)
 
 > **UDB Legislación y Economía — Cátedra Economía (95-0309)**  
 > **Universidad Tecnológica Nacional — Facultad Regional Buenos Aires (UTN FRBA)**[cite: 10, 11]  
@@ -8,7 +8,7 @@
 
 ---
 
-## 👥 Integrantes
+## Integrantes
 
 | Apellido y Nombre | Legajo |
 | :--- | :--- |
@@ -17,7 +17,7 @@
 
 ---
 
-## 📋 ÍNDICE
+## ÍNDICE
 1. [Resumen Ejecutivo](#1-resumen-ejecutivo)
 2. [Proceso de Visualización de la Empresa](#2-proceso-de-visualización-de-la-empresa)
 3. [Tipo de Sociedad](#3-tipo-de-sociedad)
