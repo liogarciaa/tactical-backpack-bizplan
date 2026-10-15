@@ -1,10 +1,10 @@
 # Plan de Negocios — Mochilas Tácticas (S.R.L.)
 
 > **UDB Legislación y Economía — Cátedra Economía (95-0309)**  
-> **Universidad Tecnológica Nacional — Facultad Regional Buenos Aires (UTN FRBA)**[cite: 10, 11]  
-> **Curso:** Z3522 (2° Cuatrimestre 2024)[cite: 10, 11]  
-> **Docente:** Ing. Miguel Beltran | **Auxiliar Docente:** Leonardo Douglas Costucica[cite: 10, 11]  
-> **Grupo N°:** 4[cite: 10, 11]
+> **Universidad Tecnológica Nacional — Facultad Regional Buenos Aires (UTN FRBA)**  
+> **Curso:** Z3522 (2° Cuatrimestre 2024)  
+> **Docente:** Ing. Miguel Beltran | **Auxiliar Docente:** Leonardo Douglas Costucica 
+> **Grupo N°:** 4
 
 ---
 
@@ -33,46 +33,46 @@
 ## 1. Resumen Ejecutivo
 
 ### 1.1. Fundamento de la "Idea" a Desarrollar
-Se propone el lanzamiento de una **mochila táctica** que responda a la demanda del mercado actual —desde el sector militar hasta el civil— de un producto multifuncional con una gran relación precio-calidad[cite: 10, 11]. La idea parte de la necesidad de un producto versátil que logre ofrecer de forma efectiva almacenamiento, durabilidad y un diseño moderno, permitiendo adaptar su uso de acuerdo con las necesidades y actividades de los usuarios (asuntos militares, camping, uso diario de empleados o estudiantes)[cite: 10, 11].
+Se propone el lanzamiento de una **mochila táctica** que responda a la demanda del mercado actual —desde el sector militar hasta el civil— de un producto multifuncional con una gran relación precio-calidad. La idea parte de la necesidad de un producto versátil que logre ofrecer de forma efectiva almacenamiento, durabilidad y un diseño moderno, permitiendo adaptar su uso de acuerdo con las necesidades y actividades de los usuarios (asuntos militares, camping, uso diario de empleados o estudiantes).
 
 ### 1.2. Breve Descripción del Negocio
-Somos una marroquinería ubicada en Buenos Aires con un equipo dedicado a la fabricación de bolsos y mochilas[cite: 10, 11]. Nuestro negocio se enfoca en ofrecer productos de alta calidad que combinan funcionalidad y diseño[cite: 10, 11]. Buscamos abastecer tanto al mercado mayorista como al minorista[cite: 10, 11].
+Somos una marroquinería ubicada en Buenos Aires con un equipo dedicado a la fabricación de bolsos y mochilas. Nuestro negocio se enfoca en ofrecer productos de alta calidad que combinan funcionalidad y diseño. Buscamos abastecer tanto al mercado mayorista como al minorista.
 
 ---
 
 ## 2. Proceso de Visualización de la Empresa
 
-* **Misión:** Crear bolsos y mochilas que atiendan a la necesidad de transportar objetos personales o equipo, proporcionando la mayor comodidad, durabilidad y versatilidad para las actividades de cada día[cite: 10, 11].
-* **Visión:** Aspiramos a ser una marca reconocida por la calidad y durabilidad de nuestros productos, convirtiéndonos en un referente en el diseño de artículos de marroquinería funcionales a un precio accesible, con alcance al resto de los países de la región[cite: 10, 11].
+* **Misión:** Crear bolsos y mochilas que atiendan a la necesidad de transportar objetos personales o equipo, proporcionando la mayor comodidad, durabilidad y versatilidad para las actividades de cada día.
+* **Visión:** Aspiramos a ser una marca reconocida por la calidad y durabilidad de nuestros productos, convirtiéndonos en un referente en el diseño de artículos de marroquinería funcionales a un precio accesible, con alcance al resto de los países de la región.
 * **Valores:**
-  * Trabajamos con pasión y compromiso[cite: 10, 11].
-  * Nos comprometemos con la calidad y durabilidad[cite: 10, 11].
-  * Ante todo, buscamos brindar funcionalidad al cliente[cite: 10, 11].
-  * Interés por la comodidad de nuestros clientes y responsabilidad en el diseño ergonómico[cite: 10, 11].
+  * Trabajamos con pasión y compromiso.
+  * Nos comprometemos con la calidad y durabilidad.
+  * Ante todo, buscamos brindar funcionalidad al cliente.
+  * Interés por la comodidad de nuestros clientes y responsabilidad en el diseño ergonómico.
 
 ---
 
 ## 3. Tipo de Sociedad
-* **Estructura Jurídica:** Sociedad de Responsabilidad Limitada (**S.R.L.**)[cite: 10, 11].
+* **Estructura Jurídica:** Sociedad de Responsabilidad Limitada (**S.R.L.**).
 
 ---
 
 ## 4. Mercadotecnia & Estudio de Mercado
 
 ### 4.1. Estudio de Mercado
-* **Sector y Proyección:** Crecimiento impulsado por la demanda en actividades militares y aplicaciones civiles que requieren resistencia extrema[cite: 10, 11]. Destaca el uso de materiales de alta resistencia, costuras reforzadas y sistema **MOLLE** (*Modular Lightweight Load-carrying Equipment*) para acoplar accesorios modulares[cite: 10, 11].
-* **Competencia Principal:** En el mercado argentino, el principal competidor en Mercado Libre es la marca **DINAMIC**, con más de 5.000 unidades sold a un precio promedio de $120.000[cite: 10, 11].
+* **Sector y Proyección:** Crecimiento impulsado por la demanda en actividades militares y aplicaciones civiles que requieren resistencia extrema. Destaca el uso de materiales de alta resistencia, costuras reforzadas y sistema **MOLLE** (*Modular Lightweight Load-carrying Equipment*) para acoplar accesorios modulares.
+* **Competencia Principal:** En el mercado argentino, el principal competidor en Mercado Libre es la marca **DINAMIC**, con más de 5.000 unidades sold a un precio promedio de $120.000.
 * **Bienes Relacionados:**
-  * *Sustitutos:* Mochilas de camping y bolsos marroquineros (70, 90 y 110 cm)[cite: 10, 11].
-  * *Complementarios:* Cantimploras, botellas tácticas y compartimientos modulares adicionales[cite: 10, 11].
-* **Elasticidad de la Demanda:** Demanda **relativamente elástica**, sensible a variaciones de precio o mejoras tecnológicas debido a la alta disponibilidad de sustitutos[cite: 10, 11].
+  * *Sustitutos:* Mochilas de camping y bolsos marroquineros (70, 90 y 110 cm).
+  * *Complementarios:* Cantimploras, botellas tácticas y compartimientos modulares adicionales.
+* **Elasticidad de la Demanda:** Demanda **relativamente elástica**, sensible a variaciones de precio o mejoras tecnológicas debido a la alta disponibilidad de sustitutos.
 
 ### 4.2. Estrategia Comercial (Próximos 5 Años)
 * **Estrategia de Precios (Penetración):**
-  * *Precio Mayorista (a partir de 25 u.):* **$80.000 ARS / unidad**[cite: 10, 11].
-  * Se establece una estrategia de penetración ofreciendo un valor por debajo del promedio del mercado ($100.000 - $120.000) con ajustes trimestrales por índices de inflación e insumos[cite: 10, 11].
-* **Canales de Distribución & Plaza:** Sede operativa en Provincia de Buenos Aires[cite: 10, 11]. Envíos a todo el país vía logística de Mercado Libre y ventas mayoristas directas en la zona comercial de Once[cite: 10, 11].
-* **Promoción:** Pauta publicitaria en Mercado Libre (posicionamiento), campañas en Instagram y TikTok, y alianzas con influencers del nicho outdoor y urbano[cite: 10, 11].
+  * *Precio Mayorista (a partir de 25 u.):* **$80.000 ARS / unidad**.
+  * Se establece una estrategia de penetración ofreciendo un valor por debajo del promedio del mercado ($100.000 - $120.000) con ajustes trimestrales por índices de inflación e insumos.
+* **Canales de Distribución & Plaza:** Sede operativa en Provincia de Buenos Aires. Envíos a todo el país vía logística de Mercado Libre y ventas mayoristas directas en la zona comercial de Once.
+* **Promoción:** Pauta publicitaria en Mercado Libre (posicionamiento), campañas en Instagram y TikTok, y alianzas con influencers del nicho outdoor y urbano.
 
 ---
 
@@ -87,65 +87,65 @@ Somos una marroquinería ubicada en Buenos Aires con un equipo dedicado a la fab
 ### Metas a 5 Años
 1. Incrementar el nivel de producción un 25% cada 3 meses[cite: 10, 11].
 2. Vender 50 unidades en los primeros 3 meses[cite: 10, 11].
-3. Lograr 10 clientes fijos mayoristas al primer año[cite: 10, 11].
-4. Incorporar 2 máquinas de coser adicionales ante el aumento de demanda[cite: 10, 11].
-5. Incrementar el reconocimiento de marca un 30% en el mercado objetivo[cite: 10, 11].
+3. Lograr 10 clientes fijos mayoristas al primer año.
+4. Incorporar 2 máquinas de coser adicionales ante el aumento de demanda.
+5. Incrementar el reconocimiento de marca un 30% en el mercado objetivo.
 
 ---
 
 ## 6. Cadena de Valor & Estructura Operativa
 
 ### Actividades Principales
-* **Logística Interna:** Compra de rollos de tela ($2.300/metro), cierres cadena N°5 ($98/metro) y deslizadores ($200/u) en locales especializados[cite: 10, 11].
-* **Operaciones de Producción:** Corte de tela en taller y ensamble por costura[cite: 10, 11].
-* **Logística Externa:** Empaquetado en bultos de 25 unidades, control de calidad y despacho diario antes de las 13:00 hs en centro de colecta de Mercado Libre[cite: 10, 11].
+* **Logística Interna:** Compra de rollos de tela ($2.300/metro), cierres cadena N°5 ($98/metro) y deslizadores ($200/u) en locales especializados.
+* **Operaciones de Producción:** Corte de tela en taller y ensamble por costura.
+* **Logística Externa:** Empaquetado en bultos de 25 unidades, control de calidad y despacho diario antes de las 13:00 hs en centro de colecta de Mercado Libre.
 
 ### Recursos Humanos & Equipamiento
-* **Personal (7 empleados):** 3 Costureros, 3 Ayudantes de costura y 1 Asistente de Control de Calidad[cite: 10, 11].
-* **Régimen de Trabajo:** 8 horas diarias, 22 días laborables al mes[cite: 10, 11].
-* **Esquema de Remuneración:** Pago a costureros por productividad ($2.000 / unidad terminada, estimando $50.000/día por 25 bolsos)[cite: 10, 11].
+* **Personal (7 empleados):** 3 Costureros, 3 Ayudantes de costura y 1 Asistente de Control de Calidad.
+* **Régimen de Trabajo:** 8 horas diarias, 22 días laborables al mes.
+* **Esquema de Remuneración:** Pago a costureros por productividad ($2.000 / unidad terminada, estimando $50.000/día por 25 bolsos).
 * **Maquinaria:**
-  * 5 Máquinas de coser Collareta Multifunción Motor Delta[cite: 10, 11].
-  * 1 Cortadora de tela Dapet Volpe 5[cite: 10, 11].
-  * 2 Cúters Jonnesway y 5 tijeras de hilo[cite: 10, 11].
-  * 1 Computadora de gestión[cite: 10, 11].
+  * 5 Máquinas de coser Collareta Multifunción Motor Delta.
+  * 1 Cortadora de tela Dapet Volpe 5.
+  * 2 Cúters Jonnesway y 5 tijeras de hilo.
+  * 1 Computadora de gestión.
 
 ---
 
 ## 7. Análisis Económico & Amortizaciones
 
 ### Amortización Creciente
-Se justifica el uso del sistema de **amortización creciente** para la maquinaria de producción bajo los siguientes fundamentos[cite: 10, 11]:
-1. **Reducción de Carga Financiera Inicial:** Permite menor impacto en el flujo de caja en los primeros periodos de operación[cite: 10, 11].
-2. **Alineación con Capacidad Productiva:** Equilibra las cuotas con el aumento paulatino de volumen de ventas e ingresos[cite: 10, 11].
+Se justifica el uso del sistema de **amortización creciente** para la maquinaria de producción bajo los siguientes fundamentos:
+1. **Reducción de Carga Financiera Inicial:** Permite menor impacto en el flujo de caja en los primeros periodos de operación.
+2. **Alineación con Capacidad Productiva:** Equilibra las cuotas con el aumento paulatino de volumen de ventas e ingresos.
 
 ### Cálculo de Capacidad Instalada
-* **Días laborables / mes:** 22 días[cite: 10, 11].
-* **Horas jornada:** 8 hs[cite: 10, 11].
-* **Mano de Obra Directa:** 6 empleados[cite: 10, 11].
-* **Tiempo estándar de producción:** 2 horas / unidad[cite: 10, 11].
+* **Días laborables / mes:** 22 días.
+* **Horas jornada:** 8 hs.
+* **Mano de Obra Directa:** 6 empleados.
+* **Tiempo estándar de producción:** 2 horas / unidad.
 
-$$\text{Producción Diaria} = 6 \text{ empleados} \times 4 \text{ un/día} = 24 \text{ unidades/día}$$[cite: 10, 11]
+$$\text{Producción Diaria} = 6 \text{ empleados} \times 4 \text{ un/día} = 24 \text{ unidades/día}$$
 
-$$\text{Producción Mensual} = 24 \text{ un/día} \times 22 \text{ días} = 528 \text{ unidades/mes}$$[cite: 10, 11]
+$$\text{Producción Mensual} = 24 \text{ un/día} \times 22 \text{ días} = 528 \text{ unidades/mes}$$
 
-$$\mathbf{\text{Capacidad Instalada Anual}} = 528 \text{ un/mes} \times 12 \text{ meses} = \mathbf{6.336 \text{ unidades/año}}$$[cite: 10, 11]
+$$\mathbf{\text{Capacidad Instalada Anual}} = 528 \text{ un/mes} \times 12 \text{ meses} = \mathbf{6.336 \text{ unidades/año}}$$
 
 ---
 
 ## 8. Estructura de Costos & Productividad
 
 ### Costo Variable Unitario (Costeo Directo)
-$$\text{Costo Variable Unitario} = \text{Costo MOD} + \text{Costo Materia Prima}$$[cite: 10, 11]
-$$\text{Costo Variable Unitario} = \$23.111,11 + \$55.411,11 = \mathbf{\$78.422,22 \text{ ARS/unidad}}$$[cite: 10, 11]
+$$\text{Costo Variable Unitario} = \text{Costo MOD} + \text{Costo Materia Prima}$$
+$$\text{Costo Variable Unitario} = \$23.111,11 + \$55.411,11 = \mathbf{\$78.422,22 \text{ ARS/unidad}}$$
 
 ### Indicadores de Productividad
 * **Productividad Física (Mano de Obra):**
-  $$\text{Productividad Física} = \frac{1 \text{ unidad} \times 6}{2 \text{ hs}} = \mathbf{3 \text{ unidades / hora}}$$[cite: 10, 11]
+  $$\text{Productividad Física} = \frac{1 \text{ unidad} \times 6}{2 \text{ hs}} = \mathbf{3 \text{ unidades / hora}}$$
 * **Productividad Monetaria (Mano de Obra):**
-  $$\text{Productividad Monetaria} = \frac{\$80.000}{2 \text{ hs}} = \mathbf{\$40.000 \text{ ARS / hora}}$$[cite: 10, 11]
+  $$\text{Productividad Monetaria} = \frac{\$80.000}{2 \text{ hs}} = \mathbf{\$40.000 \text{ ARS / hora}}$$
 * **Productividad de Materia Prima:**
-  $$\text{Productividad MP} = \frac{\$80.000}{\$32.300} = \mathbf{2,48 \text{ \$/\$}}$$[cite: 10, 11]
+  $$\text{Productividad MP} = \frac{\$80.000}{\$32.300} = \mathbf{2,48 \text{ \$/\$}}$$
 
 ---
 
@@ -153,11 +153,11 @@ $$\text{Costo Variable Unitario} = \$23.111,11 + \$55.411,11 = \mathbf{\$78.422,
 
 | Indicador Financiero | Valor Obtenido | Criterio de Evaluación / Conclusión |
 | :--- | :---: | :--- |
-| **Beneficio Neto Acumulado (5 años)** | **$87.950.334,01 ARS** | Flujo de caja positivo tras deducir impuestos y costos operativos[cite: 10, 11]. |
-| **VAN (Tasa 0%)** | **$87.950.334,01 ARS** | Valor total sin ajuste por costo de oportunidad[cite: 10, 11]. |
-| **VAN (Tasa Descuento 65%)** | **$736.384,27 ARS** | **VAN > 0:** Rentable aun con una tasa de exigencia/riesgo muy elevada (65%)[cite: 10, 11]. |
-| **TIR (Tasa Interna de Retorno)** | **67,41%** | **TIR (67,41%) > Tasa Descuento (65%):** El proyecto rinde por encima del costo de oportunidad[cite: 10, 11]. |
-| **PRP (Período de Repago)** | **3 años y 4 meses** | Recuperación de la inversión inicial en un plazo adecuado para PyMEs[cite: 10, 11]. |
+| **Beneficio Neto Acumulado (5 años)** | **$87.950.334,01 ARS** | Flujo de caja positivo tras deducir impuestos y costos operativos. |
+| **VAN (Tasa 0%)** | **$87.950.334,01 ARS** | Valor total sin ajuste por costo de oportunidad. |
+| **VAN (Tasa Descuento 65%)** | **$736.384,27 ARS** | **VAN > 0:** Rentable aun con una tasa de exigencia/riesgo muy elevada (65%). |
+| **TIR (Tasa Interna de Retorno)** | **67,41%** | **TIR (67,41%) > Tasa Descuento (65%):** El proyecto rinde por encima del costo de oportunidad. |
+| **PRP (Período de Repago)** | **3 años y 4 meses** | Recuperación de la inversión inicial en un plazo adecuado para PyMEs. |
 
 ### Conclusión de Viabilidad
-El análisis financiero demuestra que la inversión es **financieramente viable y atractiva**[cite: 10, 11]. La combinación de una **TIR del 67,41%**, un **VAN positivo** bajo una tasa de descuento sumamente exigente del 65% y un **Período de Repago menor a 4 años** respalda la solidez del modelo de negocio enfocado en el canal mayorista[cite: 10, 11].
+El análisis financiero demuestra que la inversión es **financieramente viable y atractiva**. La combinación de una **TIR del 67,41%**, un **VAN positivo** bajo una tasa de descuento sumamente exigente del 65% y un **Período de Repago menor a 4 años** respalda la solidez del modelo de negocio enfocado en el canal mayorista.
