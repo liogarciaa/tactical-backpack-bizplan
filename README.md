@@ -43,7 +43,7 @@ El proyecto abarca desde el dimensionamiento de capacidad instalada y la cadena 
 
 Para consultar el modelo cuantitativo completo en Excel (formulado a 5 años), podés acceder directamente a la hoja de cálculo interactiva:
 
-* <a href="https://docs.google.com/spreadsheets/d/1c5nkWoEnWYZRzovzOq5xD5IbOdguNbW0/edit?usp=sharing&ouid=101483865703556516957&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer"><b>Abrir Planilla de Formulación Económica (.xlsx) en pestaña nueva</b></a>
+**[Abrir Planilla de Formulación Económica (.xlsx) en Google Sheets](https://docs.google.com/spreadsheets/d/1c5nkWoEnWYZRzovzOq5xD5IbOdguNbW0/edit?usp=sharing)** *(se recomienda abrir con Ctrl + Clic)*
 
 ---
 
